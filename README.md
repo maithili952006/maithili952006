@@ -72,8 +72,8 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/maithili-raut" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.leetcode.com/maithili" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16500" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/maithili-raut-77154732b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/SzbPdgFnVA" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:rautmaithili99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
